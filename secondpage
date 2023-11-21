@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>Basic Web Page</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" >
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <nav>
+  <a href="https://www.multisyscorp.com/" target="_blank">Home</a> |
+  <a>About</a> |
+  <a href="./founders.html">Founders</a> |
+  <a>Careers</a> |
+  <a href="./services.html">Services</a> |
+  <a>News</a> |
+  <a>Contact</a>
+  <a href="./firstpage">Back to First Page</a>
+  </nav>
+ 
+  <h1>SinsilYou</h1>
+  <h4><em>"Building The Future"</em></h4>
+
+  <p><em>Table of Contents:</em></p>
+  <ol>
+    <li><a href="#About Us">About Us</a></li>
+    <li><a href="#Who We Are">Who We Are</a></li>
+    <li><a href="#What We Do">What We Do</a></li>
+    <li><a href="#How We Help">How We Help</a></li>
+    <li><a href="#Corporate Principle">Corporate Principle</a></li>
+    <li><a href="#Mission">Mission</a></li>
+    <li><a href="#Vision">Vision</a></li>
+    <li><a href="#Meet the Founders">Meet the Founders</a></li>
+
+  <h3 id="About Us">About Us</h3>
+  <p>A software engineering solutions firm that provides a wide range, cost-effective, and full scale service to tailor-fit and empower businesses.</p>
+  <h3 id="Who We Are">Who We Are</h3>
+  <p>We are a software solutions firm backed by a team of expert programming engineers in the Philippines that focuses on research and development. We are dedicated to our work and we ensure to deliver quality service to blaze the trail in the industry.</p>
+  <h3 id="What We Do">What We Do</h3>
+  <p>We are committed to empowering companies by providing vision, strategy, and outstanding implementation in advanced software solutions. We deliver excellent service and well-executed work to bring partners at the forefront of the business sector.</p>
+  <h3 id="How We Help">How We Help</h3>
+  <p>We pursue and bring solutions beyond software development to create impactful decisions, to further enhance businesses, and to ultimately service for the betterment of the common good, which in itself is fulfilling for us.</p>
+  <h3 id="Corporate Principle">Corporate Principle</h3>
+  <p>Having employees, partners, and customers, we ensure to put PEOPLE FIRST, which fills every aspect of the company culture.<br><br>
+We offer an ACTION-ORIENTED approach in achieving what is committed. Our products are expertly engineered to make sure every output is well crafted.<br><br>
+Giving high value to outstanding performance, we are QUALITY CONSCIOUS in creating an edge in the industry by striving to improve our products and push our services forward.<br><br>
+We exceed ABOVE & BEYOND expectations. We are dedicated to our work and we are passionate to serve people who want to bring absolute excellence.</p>
+  <h3 id="Mission">Mission</h3>
+  <p>SinsilYou is driven to partner and reinvent how businesses meet objectives through breakthrough software solutions.</p>
+  <h3 id="Vision">Vision</h3>
+  <p>To revolutionize how the world runs business with innovative software solutions.</p>
+  <h3 id="Meet the Founders">Meet the Founders</h3>
+  <ul>
+    <li>Julaida S. Ibrahim</li>
+    <li>Waseyt S. Ibrahim</li>
+    <li>Cayaono D. Sultansarip</li>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <script src="script.js"></script>
+  <footer>
+    <h3>Contact</h3>
+    <h3>Location</h3>
+    <h3>Privacy Policy</h3>
+  </footer>
+</body>
+</html>
